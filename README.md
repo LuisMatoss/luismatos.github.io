@@ -1,14 +1,8 @@
-# luismatos.github.io
-<!DOCTYPE html>
 <html>
 <head> 
   <meta charset="utr-8">
   <title> This is the title </title>
 </head>
-
-p{ 
-color: blue;
-}
 
 <body> 
 <h1> what is ChatGPT </h1>
